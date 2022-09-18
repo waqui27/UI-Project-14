@@ -11,7 +11,7 @@
   - Used Only **Html** and **CSS**
   - I used flexbox and media queries to make the section mobile responsive.
   - I learned a lot about flexbox and position combined.
-  - Learned to about Background-images and their positions.
+  - I Learned about Background-images and their positions.
 
   <br>
 
