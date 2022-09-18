@@ -19,4 +19,4 @@
 
 <br>
 
-> ## It took around 3.5 hours to complete and make this project **Mobiile** Responsive.
+> ## It took around 3.5 hours to complete and make this project **Mobile** Responsive.
